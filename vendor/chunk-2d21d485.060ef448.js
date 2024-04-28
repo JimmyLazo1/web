@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21d485"],{d146:function(n,e,t){"use strict";t.r(e);var i=t("f74a");e["default"]={path:"perfil",name:i["a"].mainRoutes.Profile,component:function(){return t.e("chunk-c2eb626c").then(t.bind(null,"8f91"))},meta:{title:"Mi perfil"}}}}]);
